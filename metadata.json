@@ -1,0 +1,5 @@
+{
+  "name": "IoT Health Monitor",
+  "description": "Real-time healthcare monitoring system for IoT devices.",
+  "requestFramePermissions": []
+}
